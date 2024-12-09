@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Louay elaroui</h1>
-<h3 align="center">A passionate Full Stack dev and CFO of Company (CWD) from Tunsia</h3>
+<h3 align="center">A passionate Full Stack dev and CEO of Company (CWD) from Tunisia</h3>
 
 - 🔭 I’m currently working on **multiple project**
 
