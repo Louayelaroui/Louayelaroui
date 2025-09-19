@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **multiple project**
 
-- 🌱 I’m currently learning **AI , ML , Reinforcement Learning**
+- 🌱 I’m currently learning **AI , ML , Reinforcement Learning , rag , cag , a2a , n8n**
 
 - 👨‍💻 All of my projects are available at [https://www.celestialwavedigital.com/](https://www.celestialwavedigital.com/)
 
-- 💬 Ask me about **nest , next , flutter , react**
+- 💬 Ask me about **nest , next , flutter , vite , rust , react**
 
 - 📫 How to reach me **louay.elaroui@cwavedigital.com**
 
